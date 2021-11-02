@@ -22,4 +22,4 @@ async function loginFormHandler(event) {
     }
 }
 
-document.querySelector('.login-form').addEventListener('submit', loginFormHandler);
+document.querySelector('.login_form').addEventListener('submit', loginFormHandler);
